@@ -28,5 +28,8 @@ object Example1Object {
 
     val arrayExample = new ArrayExample
     arrayExample.execute()
+
+    val listExample = new ListExample
+    listExample.execute()
   }
 }
