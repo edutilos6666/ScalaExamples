@@ -1,5 +1,3 @@
-package com.edutilos.main;
-
 
 object Example2 {
   def main(args:Array[String]): Unit = {
@@ -24,6 +22,7 @@ object Example2 {
   }
 
   def testComplexNumber(): Unit = {
+
     var (cn1:ComplexNumber, cn2:ComplexNumber) = (new ComplexNumber(1,1), new ComplexNumber(2,2))
     var add:ComplexNumber = cn1 + cn2
     var subtract:ComplexNumber = cn1 - cn2

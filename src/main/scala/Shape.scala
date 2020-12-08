@@ -1,4 +1,3 @@
-package com.edutilos.main
 
 /**
   * Created by edutilos on 21.06.17.

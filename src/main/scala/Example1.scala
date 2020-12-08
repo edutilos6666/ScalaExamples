@@ -1,5 +1,3 @@
-package com.edutilos.main
-
 import scala.collection.mutable
 
 object Example {
