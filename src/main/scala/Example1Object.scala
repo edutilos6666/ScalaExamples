@@ -31,5 +31,20 @@ object Example1Object {
 
     val listExample = new ListExample
     listExample.execute()
+
+    val setExample = new SetExample
+    setExample.execute()
+
+    val mapExample = new MapExample()
+    mapExample.execute()
+
+    val tupleExample = new TupleExample
+    tupleExample.execute()
+
+    val traitExample = new TraitExample
+    traitExample.execute()
+
+    val example1CaseClass = new Example1CaseClass
+    example1CaseClass.execute()
   }
 }
